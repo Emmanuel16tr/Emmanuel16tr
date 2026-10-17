@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mauro Cuetia</h1>
+<h1 align="center">Hi 👋, I'm Emmanuel Banguero</h1>
 
 <h3 align="center">Systems Engineering Student | Database Enthusiast | Future Software Developer</h3>
 
